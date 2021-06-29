@@ -1,4 +1,5 @@
 # codecar
-programable toy car, Arduino + TAMIYA
+programable toy car, Arduino + Microbit
 
-![](FNYX33OIMWBDE91.MEDIUM.jpg)
+![](./hardware/codecar.png)
+![](./hardware/codecar1.png)
